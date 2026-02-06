@@ -1,0 +1,18 @@
+ Row 2: Start Timecode, Date Created, Camera #.
+ Row 3: Scene, Shot, Take.
+ Row 4: Clip Name, Comment.
+The Media
+Sort options
+```
+The Metadata View icon view (highlighted icon in the top bar),
+```
+showing the thumbnail being scrubbed next to the clip’s metadata
+The strength of the Metadata view is the automatic clustering of your clips based on the sort order
+you choose in the Media Pool Sort By menu, at the very upper-right corner of the Media Pool.
+Each different sort mode changes the main description field on the card, as well as re-arranging
+the Media Pool to reflect the selected organization method.
+The sort modes available in the Metadata view are:
+ Bin: This mode clusters the clips by bin, changes the main description field to clip name, and
+orders the list by timecode.
+ TImecode: This mode clusters the clips by creation date, changes the main description field to
+creation date and start timecode, and orders the list by timecode.
