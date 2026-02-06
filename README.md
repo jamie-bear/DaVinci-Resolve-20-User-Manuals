@@ -1,0 +1,1 @@
+This Repo includes the official manuals for DaVinci Resolve 20 (as of 6. February 2025), converted to Markdown. It is meant for easy referencing in notation apps or AI-knowledge bases. The formatting is still sub-optimal - any help is welcome.
